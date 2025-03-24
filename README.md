@@ -42,4 +42,6 @@
   - Description: Worked on classifying infant cries using a transformer-based multimodal model
  
 ---
+<div align=center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=r2lgod)](https://solved.ac/r2lgod/)
+</div>
