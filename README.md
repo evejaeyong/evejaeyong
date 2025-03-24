@@ -2,7 +2,7 @@
 
 - Name: Jaeyong Kim  
 - Occupation: Undergraduate Student (Senior)  
-- Major: Computer Science  
+- Major: Computer Information Engineering
 - Interests: Artificial Intelligence (AI), Large Language Models (LLMs), Multimodal Learning  
 
 ---
